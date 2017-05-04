@@ -1,0 +1,41 @@
+{
+    "title": "Voucher-basic API",
+    "author": "jack",
+    "description": "Voucher-basic， react，github...",
+    "language": "en",
+	"links" : {
+	    "sidebar" : {
+	        "Home" : "http://github.com/ddtramp/Voucher-basic/"
+	    }
+	},
+    "plugins": [
+        "theme-comscore",
+		"book-summary-scroll-position-saver",        
+        "expandable-chapters",
+        "advanced-emoji",
+        "github",
+        "tbfed-pagefooter",
+        "toggle-chapters",
+        "splitter",
+        "anchors",
+        "prism",
+        "-highlight",
+        "-sharing"
+   ],
+   "pluginsConfig": {
+		"expandable-chapters":{},
+		"github": {
+			"url": "http://www.github.com/ddtramp/Voucher-basic/"
+		},
+		"tbfed-pagefooter": {
+	        "copyright":"Copyright © jackwang 2015",
+	        "modify_label": "该文件修订时间：",
+	        "modify_format": "YYYY-MM-DD HH:mm:ss"
+	    },
+	    "prism": {
+		    "css": [
+		      	"prismjs/themes/prism-solarizedlight.css"
+		    ]
+	    }
+   }
+}
