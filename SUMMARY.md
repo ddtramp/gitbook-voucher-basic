@@ -6,5 +6,5 @@
 * [API Reference](api-reference.md)
 * [Change Log](change-log.md)
 * [Future](future.md)
-* Contributing Guide
+* [Contributing Guide](contributing-guide.md)
 
