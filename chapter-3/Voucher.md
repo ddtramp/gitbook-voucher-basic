@@ -1,11 +1,12 @@
 # Voucher.js
-----
-Main module
 
+---
+
+Main module
 
 ## Usage
 
-```javascript
+```js
 //index.js
 import React from 'react';
 import {render} from 'react-dom';
@@ -23,8 +24,6 @@ render(<Voucher
 ```
 
 ## Properity
-
-
 
 
 
