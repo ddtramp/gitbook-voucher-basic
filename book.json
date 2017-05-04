@@ -3,12 +3,9 @@
     "author": "jack",
     "description": "Voucher-basic， react，github...",
     "language": "en",
-	"links" : {
-	    "sidebar" : {
-	        "Home" : "http://github.com/ddtramp/Voucher-basic/"
-	    }
-	},
     "plugins": [
+        "-highlight",
+        "-sharing",
         "theme-comscore",
 		"book-summary-scroll-position-saver",        
         "expandable-chapters",
@@ -19,8 +16,8 @@
         "splitter",
         "anchors",
         "prism",
-        "-highlight",
-        "-sharing"
+        "prism-themes",
+        "ace"
    ],
    "pluginsConfig": {
 		"expandable-chapters":{},
@@ -37,5 +34,6 @@
 		      	"prismjs/themes/prism-solarizedlight.css"
 		    ]
 	    }
-   }
+   },
+   "gitbook": "3.2.2"
 }
