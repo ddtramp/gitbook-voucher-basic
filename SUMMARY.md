@@ -5,6 +5,6 @@
 * [Installation](installation.md)
 * [API Reference](api-reference.md)
 * [Change Log](change-log.md)
-* Future
+* [Future](future.md)
 * Contributing Guide
 
