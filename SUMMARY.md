@@ -4,7 +4,7 @@
 * [Guides](lalal.md)
 * [Installation](installation.md)
 * [API Reference](api-reference.md)
-* Change Log
+* [Change Log](change-log.md)
 * Future
 * Contributing Guide
 
