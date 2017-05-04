@@ -17,7 +17,8 @@
         "anchors",
         "prism",
         "prism-themes",
-        "ace"
+        "ace",
+        "anchor-navigation-ex"
    ],
    "pluginsConfig": {
 		"expandable-chapters":{},
